@@ -1,51 +1,58 @@
-👋 Hi, I’m Daniel Lee
+# 👋 Hi, I’m Daniel Lee
 
-Senior Full-Stack Developer with 9+ years of experience building scalable, high-performance web applications and leading cross-functional teams to successful delivery.
-
-I specialize in modern front-end development with React, Next.js, Vue, and Angular, backed by strong full-stack experience using Node.js, .NET Core, and Django. I’ve worked across fintech, SaaS, marketplaces, and enterprise systems, delivering production-ready solutions used by real users.
-
----
-
-### 🚀 What I Do
-- Build responsive, high-performance web applications
-- Design clean, scalable front-end architectures
-- Develop secure, reliable backend services and APIs
-- Create interactive and fantasy-inspired UI experiences
-- Optimize performance, scalability, and deployment pipelines
+🚀 **Senior Front-End–Focused Full-Stack Developer**  
+📍 **Hong Kong** | Working with global clients  
+💼 9+ years of professional experience
 
 ---
 
-### 🛠 Tech Stack
-**Frontend**
-- React, Next.js, Vue.js, Angular, TypeScript
-- React Native, Responsive & Mobile-First UI
+## 💡 About Me
 
-**Backend**
-- Node.js, C#, Python
-- ASP.NET Core, ASP.NET MVC, Django
+I’m a Senior Full-Stack Developer with a strong **front-end focus**, specializing in building **high-performance, scalable web applications** with modern JavaScript frameworks.
 
-**Databases**
-- MongoDB, PostgreSQL, MySQL, SQL Server, Supabase
+I combine clean architecture, smooth user experiences, and business-focused thinking to deliver products that actually convert and scale.
 
-**Cloud & DevOps**
+My passion lies in **interactive, fantasy-inspired UI experiences**, paired with reliable backend systems and smooth deployments.
+
+---
+
+## 🧠 Core Expertise
+
+### 🎨 Front-End (Primary Focus)
+- React, Next.js, Vue, Angular
+- TypeScript, JavaScript (ES6+)
+- Responsive & interactive UI
+- UI performance optimization
+
+### 🛠 Back-End
+- Node.js, .NET Core, Django
+- REST APIs & system architecture
+- Authentication & authorization
+
+### 🗄 Databases
+- MongoDB, PostgreSQL, MySQL
+- SQL Server, Supabase
+
+### ☁️ Cloud & DevOps
 - AWS, Microsoft Azure
-- Docker, Kubernetes, Terraform
-- Git, CI/CD Pipelines
-
-**Testing & Quality**
-- Jest, Mocha, Cypress, XUnit, JUnit, JMeter
+- Docker, Kubernetes
+- CI/CD pipelines, Git
 
 ---
 
-### 📌 About This GitHub
-Most of my professional work has been developed in **private company and client repositories**.  
-This GitHub showcases **representative projects, demos, and technical examples** that reflect how I design, structure, and deliver production-quality full-stack applications.
+## 🤝 What You Can Expect
+
+✅ Clear & fast communication  
+✅ On-time delivery  
+✅ Clean, maintainable code  
+✅ Long-term support mindset  
+✅ Business-oriented solutions (not just code)
 
 ---
 
-### 💼 Let’s Work Together
-- 🌍 Location: Hong Kong (working with global clients)
-- 💻 Freelancer Profile: https://www.freelancer.com
-- 💵 Hourly Rate: $18 USD / hour
+## 📬 Let’s Work Together
 
-If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
+🔗 **Upwork:**  
+https://www.upwork.com/freelancers/~017875997edef3a85d
+
+If you’re looking for a reliable senior developer who cares about quality and results, feel free to reach out.
