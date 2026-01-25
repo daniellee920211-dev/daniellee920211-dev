@@ -14,43 +14,37 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 - ✅ Create interactive and fantasy-inspired UI experiences
 - ✅ Optimize performance, scalability, and deployment pipelines
 
-✅ Clear & fast communication  
-✅ On-time delivery  
-✅ Clean, maintainable code  
-✅ Long-term support mindset  
-✅ Business-oriented solutions (not just code)
-
 ---
 
 ### 🛠 Tech Stack
 **Frontend**
-➡️ React, Next.js, Vue.js, Angular, TypeScript
-➡️ React Native, Responsive & Mobile-First UI
+- ➡️ React, Next.js, Vue.js, Angular, TypeScript
+- ➡️ React Native, Responsive & Mobile-First UI
 
 **Backend**
-➡️ Node.js, C#, Python
-➡️ ASP.NET Core, ASP.NET MVC, Django
+- ➡️ Node.js, C#, Python
+- ➡️ ASP.NET Core, ASP.NET MVC, Django
 
 **Databases**
-➡️ MongoDB, PostgreSQL, MySQL, SQL Server, Supabase
+- ➡️ MongoDB, PostgreSQL, MySQL, SQL Server, Supabase
 
 **Cloud & DevOps**
-➡️ AWS, Microsoft Azure
-➡️ Docker, Kubernetes, Terraform
-➡️ Git, CI/CD Pipelines
+- ➡️ AWS, Microsoft Azure
+- ➡️ Docker, Kubernetes, Terraform
+- ➡️ Git, CI/CD Pipelines
 
 **Testing & Quality**
-➡️ Jest, Mocha, Cypress, XUnit, JUnit, JMeter
+- ➡️ Jest, Mocha, Cypress, XUnit, JUnit, JMeter
 
 ---
 
 ### 🤝 What You Can Expect
 
-✅ Clear & fast communication  
-✅ On-time delivery  
-✅ Clean, maintainable code  
-✅ Long-term support mindset  
-✅ Business-oriented solutions (not just code)
+- ✅ Clear & fast communication  
+- ✅ On-time delivery  
+- ✅ Clean, maintainable code  
+- ✅ Long-term support mindset  
+- ✅ Business-oriented solutions (not just code)
 
 ---
 
