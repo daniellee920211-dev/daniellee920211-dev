@@ -8,11 +8,11 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 
 ### 🚀 What I Do
 
-✅ Build responsive, high-performance web applications
-✅ Design clean, scalable front-end architectures
-✅ Develop secure, reliable backend services and APIs
-✅ Create interactive and fantasy-inspired UI experiences
-✅ Optimize performance, scalability, and deployment pipelines
+- ✅ Build responsive, high-performance web applications
+- ✅ Design clean, scalable front-end architectures
+- ✅ Develop secure, reliable backend services and APIs
+- ✅ Create interactive and fantasy-inspired UI experiences
+- ✅ Optimize performance, scalability, and deployment pipelines
 
 ---
 
