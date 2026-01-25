@@ -14,6 +14,12 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 - ✅ Create interactive and fantasy-inspired UI experiences
 - ✅ Optimize performance, scalability, and deployment pipelines
 
+✅ Clear & fast communication  
+✅ On-time delivery  
+✅ Clean, maintainable code  
+✅ Long-term support mindset  
+✅ Business-oriented solutions (not just code)
+
 ---
 
 ### 🛠 Tech Stack
