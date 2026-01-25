@@ -44,7 +44,7 @@ This GitHub showcases **representative projects, demos, and technical examples**
 ---
 
 ### 💼 Let’s Work Together
-- 🌍 Location: Philippines (working with global clients)
+- 🌍 Location: Hong Kong (working with global clients)
 - 💻 Freelancer Profile: https://www.freelancer.com
 - 💼 Upwork Profile: https://www.upwork.com/freelancers/~017875997edef3a85d
 - 💵 Hourly Rate: $18 USD / hour
