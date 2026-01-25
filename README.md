@@ -37,13 +37,14 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 
 ---
 
-### 🤝 What You Can Expect
+## 🤝 What You Can Expect
 
-Clear & fast communication  
-On-time delivery  
-Clean, maintainable code  
-Long-term support mindset  
-Business-oriented solutions (not just code)
+✅ Clear & fast communication  
+✅ On-time delivery  
+✅ Clean, maintainable code  
+✅ Long-term support mindset  
+✅ Business-oriented solutions (not just code)
+
 ---
 
 ### 💼 Let’s Work Together
