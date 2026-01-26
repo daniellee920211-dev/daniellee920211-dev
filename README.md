@@ -81,18 +81,6 @@ If you’re looking for a reliable, business-focused developer who delivers more
          width="40"
          height="40"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~017875997edef3a85d" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
-         alt="X"
-         width="40"
-         height="40"/>
-  </a>
-  <a href="https://www.freelancer.com/u/daniell0211" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
-         alt="X"
-         width="40"
-         height="40"/>
-  </a>
 </p>
 
 
