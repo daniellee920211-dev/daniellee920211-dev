@@ -4,7 +4,7 @@ Senior Full-Stack Developer with 9+ years of experience building scalable, high-
 
 I specialize in modern front-end development with React, Next.js, Vue, and Angular, backed by strong full-stack experience using Node.js, .NET Core, and Django. I’ve worked across fintech, SaaS, marketplaces, and enterprise systems, delivering production-ready solutions used by real users.
 
---
+---
 
 ### 🚀 What I Do
 
@@ -14,7 +14,7 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 - ✅ Create interactive and fantasy-inspired UI experiences
 - ✅ Optimize performance, scalability, and deployment pipelines
 
---
+---
 
 ### 🛠 Tech Stack
 **Frontend**
