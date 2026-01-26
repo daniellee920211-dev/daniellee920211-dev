@@ -61,6 +61,7 @@
 If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
 
 ### 💼 CONNET WITH ME ON
+
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel_lee0211" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
