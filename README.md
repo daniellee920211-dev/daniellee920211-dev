@@ -49,7 +49,6 @@ Full Stack MERN/MEVN Web Developer
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=daniellee&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee&layout=compact&theme=tokyonight)
 
 ## 📫 Let’s Connect
