@@ -23,10 +23,6 @@ Full Stack MERN/MEVN Web Developer
 | Senior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Feb 2020 – Sep 2023 |
 | Junior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Aug 2017 – Jan 2020 |
 | Intern | Lumenpulse Inc (Montreal, CA) | Sep 2016 –  Jul 2017 |
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://www.google.com.hk/search?newwindow=1&sca_esv=262b8e8005cfc964&sxsrf=ANbL-n64xJpCFATw6LGPRfqzJZtj5xWUgg:1769414341808&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vWUtYx0DZdicpfE1faGYek-FGtKxD7AwCl01PyIDDoh3JcXAiS5pTxB6RsrrZG4swMNBsuh4Ofkws4KxGh5aFXvPoahcK6aUgnjP8cby3QPtAUclpKWWRjssGicxX1Ur9lg2BmeFAgYalpC2FotQt7HuEiL&q=company+work+history+svg&sa=X&ved=2ahUKEwjygLeK3qiSAxXhSTABHef5ASsQtKgLegQIFBAB&biw=1920&bih=911&dpr=1&aic=0#sv=CAMSVhoyKhBlLWt3YVFYM0haNkllYkJNMg5rd2FRWDNIWjZJZWJCTToOTXNEVGlPNDhoODZKdU0gBCocCgZtb3NhaWMSEGUta3dhUVgzSFo2SWViQk0YADABGAcgltOLswkwAkoKCAEQAhgCIAIoAg)"
-         alt="LinkedIn"
-         width="40"
-         height="40"/>
 
 ### 🚀 What I Do
 
