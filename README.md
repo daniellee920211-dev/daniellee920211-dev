@@ -3,9 +3,29 @@
 
 ###  Hello, folks! 👋, I’m Daniel Lee.
 
-Senior Full-Stack Developer with 9+ years of experience building scalable, high-performance web applications and leading cross-functional teams to successful delivery.
+🚀 Senior Full-Stack Developer with 9+ years of experience
+🎯 React / Next.js focused, MERN stack expert
+🌏 Based in Hong Kong, working with global clients
 
-I specialize in modern front-end development with React, Next.js, Vue, and Angular, backed by strong full-stack experience using Node.js, .NET Core, and Django. I’ve worked across fintech, SaaS, marketplaces, and enterprise systems, delivering production-ready solutions used by real users.
+---
+
+## 🚀 About Me
+
+- 🔭 Front-End focused developer (React, Next.js, Vue)
+- 🧠 Strong backend with Node.js, MongoDB, .NET, Django
+- 🎨 Love building interactive & fantasy-style UI
+- 🚀 Experience leading teams and shipping production apps
+- 💼 Open to freelance & long-term remote work
+
+---
+
+## 💼 My Works
+
+| Role | Company | Duration |
+|----|----|----|
+| Senior Full-Stack Developer | Tinkerer (HK) | 2021 – Present |
+| Front-End Lead | Freelance | 2019 – Present |
+| MERN Stack Developer | Remote Clients | 2017 – 2019 |
 
 ---
 
@@ -16,6 +36,22 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 - ✅ Develop secure, reliable backend services and APIs
 - ✅ Create interactive and fantasy-inspired UI experiences
 - ✅ Optimize performance, scalability, and deployment pipelines
+
+---
+
+## 🛠 Skills
+
+**Frontend**
+  
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css)
+
+**Backend**
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,dotnet,python)
+
+**Tools**
+
+![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
 ---
 
