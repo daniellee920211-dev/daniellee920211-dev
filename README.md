@@ -57,3 +57,11 @@ I specialize in modern front-end development with React, Next.js, Vue, and Angul
 - 💵 Hourly Rate: $18 USD / hour
 
 If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
+
+---
+### 💼 CONNET WITH ME ON
+![download](https://github.com/user-attachments/assets/8438ae4c-60be-4a5e-82ea-d7e8099c71f8)
+<img width="301" height="167" alt="download" src="https://github.com/user-attachments/assets/898ff5eb-7b2e-4c9b-af0c-0b5397716d58" />
+
+
+
