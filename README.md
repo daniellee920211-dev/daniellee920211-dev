@@ -68,29 +68,14 @@ If you’re looking for a reliable, business-focused developer who delivers more
          width="40"
          height="40"/>
   </a>
-
   <a href="https://twitter.com/YOUR_X" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
          alt="X"
          width="40"
          height="40"/>
   </a>
-
-  <a href="https://dev.to/YOUR_DEV" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"
-         alt="Dev.to"
-         width="40"
-         height="40"/>
-  </a>
 </p>
 
-- 💼 LinkedIn
-- ✖️ X (Twitter)
-- ✍️ Dev.to
-
-  <a href="https://www.freelancer.com/u/YOUR_USERNAME">
-<img src="https://img.icons8.com/color/48/freelancer.png" width="40"/>
-</a>
 
 
 
