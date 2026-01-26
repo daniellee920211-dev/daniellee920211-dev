@@ -19,9 +19,10 @@
 
 | Role | Company | Duration |
 |----|----|----|
-| Senior Full-Stack Developer | Tinkerer (HK) | 2021 – Present |
-| Front-End Lead | Freelance | 2019 – Present |
-| MERN Stack Developer | Remote Clients | 2017 – 2019 |
+| Senior Full-Stack Developer | Tinkr (HK) | Oct 2023 – Oct 2025 |
+| Senior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Feb 2020 – Sep 2023 |
+| Junior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Aug 2017 – Jan 2020 |
+| Intern | Lumenpulse Inc (Montreal, CA) | Sep 2016 –  Jul 2017 |
 
 ### 🚀 What I Do
 
