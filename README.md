@@ -77,6 +77,10 @@ If you’re looking for a reliable, business-focused developer who delivers more
   </a>
 </p>
 
+<h3 align="center">🧠 Frontend Skills</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css" />
+</p>
 
 
 
