@@ -35,6 +35,7 @@ Full Stack MERN/MEVN Web Developer
 ## 🛠 Skills
 
 **Frontend**
+
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css)
 
 **Backend**
