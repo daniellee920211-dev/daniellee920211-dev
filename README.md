@@ -8,7 +8,7 @@
 - 🌏 Based in Hong Kong, working with global clients
 
 ## 🚀 About Me
-
+Full Stack MERN/MEVN Web Developer
 - 🔭 Front-End focused developer (React, Next.js, Vue)
 - 🧠 Strong backend with Node.js, MongoDB, .NET, Django
 - 🎨 Love building interactive & fantasy-style UI
