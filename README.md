@@ -3,9 +3,9 @@
 
 ###  Hello, folks! 👋, I’m Daniel Lee.
 
-🚀 Senior Full-Stack Developer with 9+ years of experience
-🎯 React / Next.js focused, MERN stack expert
-🌏 Based in Hong Kong, working with global clients
+- 🚀 Senior Full-Stack Developer with 9+ years of experience
+- 🎯 React / Next.js focused, MERN stack expert
+- 🌏 Based in Hong Kong, working with global clients
 
 ## 🚀 About Me
 
