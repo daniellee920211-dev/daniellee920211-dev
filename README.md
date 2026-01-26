@@ -1,7 +1,7 @@
 
 ![header](https://github.com/user-attachments/assets/80c93790-ed4c-454d-9f67-d46e230c6bc3)
 
-### <h3 align="center">Hello, folks! 👋, I’m Daniel Lee.</h3>
+### <h3 align="center">Daniel Lee</h3>
 <div align="center">
   <p>🚀 Senior Full-Stack Developer with 9+ years of experience</p>
   <p>🎯 React / Next.js / Node.js focused, MERN/MEVN Stack Expert</p>
@@ -9,6 +9,12 @@
 </div>
 
 ## 🚀 About Me
+I’m Daniel — a Senior Full-Stack Developer with 9+ years of experience building scalable, high-performance web applications.
+
+I specialize in front-end development with **React, Next.js, and Vue.js**, backed by strong experience in **.NET Core, Django, and Node.js** on the server side. I enjoy designing end-to-end solutions, optimizing performance, and turning complex requirements into clean, maintainable systems.
+
+I’m passionate about crafting **interactive and fantasy-style UI experiences**, while ensuring reliable deployments, smooth user experiences, and scalable architectures. I’ve also led cross-functional teams in agile environments to deliver production-ready applications across multiple industries.
+
 - 🔭 Front-End focused developer (React, Next.js, Vue)
 - 🧠 Strong backend with Node.js, MongoDB, .NET, Django
 - 🎨 Love building interactive & fantasy-style UI
