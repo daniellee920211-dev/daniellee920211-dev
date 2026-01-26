@@ -62,13 +62,13 @@ If you’re looking for a reliable, business-focused developer who delivers more
 
 ### 💼 CONNET WITH ME ON
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel_lee0211" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
          width="40"
          height="40"/>
   </a>
-  <a href="https://twitter.com/YOUR_X" target="_blank">
+  <a href="https://twitter.com/daniel_lee0211" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
          alt="X"
          width="40"
