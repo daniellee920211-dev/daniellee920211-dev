@@ -61,8 +61,7 @@ If you’re looking for a reliable, business-focused developer who delivers more
 ---
 
 ### 💼 CONNET WITH ME ON
-![download](https://github.com/user-attachments/assets/8438ae4c-60be-4a5e-82ea-d7e8099c71f8)
-<img width="301" height="167" alt="download" src="https://github.com/user-attachments/assets/898ff5eb-7b2e-4c9b-af0c-0b5397716d58"   />
+![download](https://github.com/user-attachments/assets/48af0601-8bde-4ece-bf8a-f692382d4c36)
 
 ---
 
