@@ -1,7 +1,7 @@
 
 ![header](https://github.com/user-attachments/assets/80c93790-ed4c-454d-9f67-d46e230c6bc3)
 
-👋 Hi, I’m Daniel Lee
+### 👋 Hi, I’m Daniel Lee
 
 Senior Full-Stack Developer with 9+ years of experience building scalable, high-performance web applications and leading cross-functional teams to successful delivery.
 
