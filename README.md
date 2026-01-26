@@ -17,7 +17,7 @@ Full Stack MERN/MEVN Web Developer
 
 ## 💼 My Works
 
-| Role | Company | Duration |
+| 💼 Role | 🏢 Company | ⏰ Duration |
 |----|----|----|
 | Head of Application Development & Team Leader | Tinkr (HK) | Oct 2023 – Oct 2025 |
 | Senior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Feb 2020 – Sep 2023 |
@@ -35,7 +35,7 @@ Full Stack MERN/MEVN Web Developer
 ## 🛠 Skills
 
 **Frontend**
-  
+|----|----|----|
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css)
 
 **Backend**
