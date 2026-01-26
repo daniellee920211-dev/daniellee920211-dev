@@ -45,18 +45,18 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
-### 🤝 What You Can Expect
+## 📊 GitHub Stats
 
-- ✅ Clear & fast communication  
-- ✅ On-time delivery  
-- ✅ Clean, maintainable code  
-- ✅ Long-term support mindset  
-- ✅ Business-oriented solutions (not just code)
+![Stats](https://github-readme-stats.vercel.app/api?username=daniellee&show_icons=true&theme=tokyonight)
 
-### 💼 Let’s Work Together
-- 🌍 Location: Hong Kong (working with global clients)
-- 💻 Freelancer Profile: https://www.freelancer.com
-- 💵 Hourly Rate: $18 USD / hour
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee&layout=compact&theme=tokyonight)
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: coming soon
+- 💼 Freelancer: Freelancer.com
+- 📧 gmail: daniellee920211@gmail.com
+- 💬 Open for React / MERN projects
 
 If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
 
