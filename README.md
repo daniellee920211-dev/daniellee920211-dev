@@ -2,9 +2,11 @@
 ![header](https://github.com/user-attachments/assets/80c93790-ed4c-454d-9f67-d46e230c6bc3)
 
 ### <h3 align="center">Hello, folks! 👋, I’m Daniel Lee.</h3>
-<p>🚀 Senior Full-Stack Developer with 9+ years of experience</p>
-<p>🎯 React / Next.js focused, MERN stack expert</p>
-<p>🌏 Based in Hong Kong, working with global clients</p>
+<div align="center">
+  <p>🚀 Senior Full-Stack Developer with 9+ years of experience</p>
+  <p>🎯 React / Next.js focused, MERN stack expert</p>
+  <p>🌏 Based in Hong Kong, working with global clients</p>
+</div>
 
 ## 🚀 About Me
 Full Stack MERN/MEVN Web Developer
