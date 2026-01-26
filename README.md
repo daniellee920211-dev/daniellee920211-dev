@@ -22,7 +22,7 @@ I’m passionate about crafting **interactive and fantasy-style UI experiences**
 - 💼 Open to freelance & long-term remote work
 
 ## 💼 My Works
-<div style="align="center">
+<div style="text-align: center;">
 | 💼 Role | 🏢 Company | ⏰ Duration |
 |----|----|----|
 | Head of Application Development & Team Leader | Tinkr (HK) | Oct 2023 – Oct 2025 |
