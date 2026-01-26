@@ -61,12 +61,13 @@ I’m passionate about crafting **interactive and fantasy-style UI experiences**
 
 - 🌐 Portfolio: coming soon
 - 💼 Freelancer: [Freelancer.com](https://www.freelancer.com/u/daniell0211)
+- 💼 Upwork: [Upwork.com](https://www.upwork.com/freelancers/~017875997edef3a85d)
 - 📧 gmail: daniellee920211@gmail.com
 - 💬 Open for React / MERN projects
 
 If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
 
-### 💼 CONNET WITH ME ON
+### 💼 CONNECT WITH ME ON
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel_lee0211" target="_blank">
