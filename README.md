@@ -54,7 +54,7 @@
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: coming soon
-- 💼 Freelancer: Freelancer.com
+- 💼 Freelancer: [Freelancer.com](https://www.freelancer.com/u/daniell0211)
 - 📧 gmail: daniellee920211@gmail.com
 - 💬 Open for React / MERN projects
 
