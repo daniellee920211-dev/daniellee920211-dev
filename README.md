@@ -61,8 +61,36 @@
 If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
 
 ### 💼 CONNET WITH ME ON
-![download](https://github.com/user-attachments/assets/48af0601-8bde-4ece-bf8a-f692382d4c36)
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="40"
+         height="40"/>
+  </a>
 
+  <a href="https://twitter.com/YOUR_X" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
+         alt="X"
+         width="40"
+         height="40"/>
+  </a>
+
+  <a href="https://dev.to/YOUR_DEV" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"
+         alt="Dev.to"
+         width="40"
+         height="40"/>
+  </a>
+</p>
+
+- 💼 LinkedIn
+- ✖️ X (Twitter)
+- ✍️ Dev.to
+
+  <a href="https://www.freelancer.com/u/YOUR_USERNAME">
+<img src="https://img.icons8.com/color/48/freelancer.png" width="40"/>
+</a>
 
 
 
