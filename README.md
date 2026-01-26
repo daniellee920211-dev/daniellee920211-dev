@@ -7,8 +7,6 @@
 🎯 React / Next.js focused, MERN stack expert
 🌏 Based in Hong Kong, working with global clients
 
----
-
 ## 🚀 About Me
 
 - 🔭 Front-End focused developer (React, Next.js, Vue)
@@ -16,8 +14,6 @@
 - 🎨 Love building interactive & fantasy-style UI
 - 🚀 Experience leading teams and shipping production apps
 - 💼 Open to freelance & long-term remote work
-
----
 
 ## 💼 My Works
 
@@ -27,8 +23,6 @@
 | Front-End Lead | Freelance | 2019 – Present |
 | MERN Stack Developer | Remote Clients | 2017 – 2019 |
 
----
-
 ### 🚀 What I Do
 
 - ✅ Build responsive, high-performance web applications
@@ -36,8 +30,6 @@
 - ✅ Develop secure, reliable backend services and APIs
 - ✅ Create interactive and fantasy-inspired UI experiences
 - ✅ Optimize performance, scalability, and deployment pipelines
-
----
 
 ## 🛠 Skills
 
@@ -53,30 +45,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
----
-
-### 🛠 Tech Stack
-**Frontend**
-- ➡️ React, Next.js, Vue.js, Angular, TypeScript
-- ➡️ React Native, Responsive & Mobile-First UI
-
-**Backend**
-- ➡️ Node.js, C#, Python
-- ➡️ ASP.NET Core, ASP.NET MVC, Django
-
-**Databases**
-- ➡️ MongoDB, PostgreSQL, MySQL, SQL Server, Supabase
-
-**Cloud & DevOps**
-- ➡️ AWS, Microsoft Azure
-- ➡️ Docker, Kubernetes, Terraform
-- ➡️ Git, CI/CD Pipelines
-
-**Testing & Quality**
-- ➡️ Jest, Mocha, Cypress, XUnit, JUnit, JMeter
-
----
-
 ### 🤝 What You Can Expect
 
 - ✅ Clear & fast communication  
@@ -85,16 +53,12 @@
 - ✅ Long-term support mindset  
 - ✅ Business-oriented solutions (not just code)
 
----
-
 ### 💼 Let’s Work Together
 - 🌍 Location: Hong Kong (working with global clients)
 - 💻 Freelancer Profile: https://www.freelancer.com
 - 💵 Hourly Rate: $18 USD / hour
 
 If you’re looking for a reliable, business-focused developer who delivers more than just code — feel free to explore my pinned projects below 👇
-
----
 
 ### 💼 CONNET WITH ME ON
 ![download](https://github.com/user-attachments/assets/48af0601-8bde-4ece-bf8a-f692382d4c36)
