@@ -9,6 +9,7 @@
 </div>
 
 ## 🚀 About Me
+
 I’m Daniel — a Senior Full-Stack Developer with 9+ years of experience building scalable, high-performance web applications.
 
 I specialize in front-end development with **React, Next.js, and Vue.js**, backed by strong experience in **.NET Core, Django, and Node.js** on the server side. I enjoy designing end-to-end solutions, optimizing performance, and turning complex requirements into clean, maintainable systems.
@@ -22,14 +23,13 @@ I’m passionate about crafting **interactive and fantasy-style UI experiences**
 - 💼 Open to freelance & long-term remote work
 
 ## 💼 My Works
-<div style="text-align: center;">
+
 | 💼 Role | 🏢 Company | ⏰ Duration |
 |----|----|----|
 | Head of Application Development & Team Leader | Tinkr (HK) | Oct 2023 – Oct 2025 |
 | Senior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Feb 2020 – Sep 2023 |
 | Junior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Aug 2017 – Jan 2020 |
 | Intern | Lumenpulse Inc (Montreal, CA) | Sep 2016 –  Jul 2017 |
-</div>
 
 ### 🚀 What I Do
 
