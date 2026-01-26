@@ -4,12 +4,11 @@
 ### <h3 align="center">Hello, folks! 👋, I’m Daniel Lee.</h3>
 <div align="center">
   <p>🚀 Senior Full-Stack Developer with 9+ years of experience</p>
-  <p>🎯 React / Next.js focused, MERN stack expert</p>
+  <p>🎯 React / Next.js / Node.js focused, MERN/MEVN Stack Expert</p>
   <p>🌏 Based in Hong Kong, working with global clients</p>
 </div>
 
 ## 🚀 About Me
-Full Stack MERN/MEVN Web Developer
 - 🔭 Front-End focused developer (React, Next.js, Vue)
 - 🧠 Strong backend with Node.js, MongoDB, .NET, Django
 - 🎨 Love building interactive & fantasy-style UI
@@ -76,11 +75,6 @@ If you’re looking for a reliable, business-focused developer who delivers more
          width="40"
          height="40"/>
   </a>
-</p>
-
-<h3 align="center">🧠 Frontend Skills</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css" />
 </p>
 
 
