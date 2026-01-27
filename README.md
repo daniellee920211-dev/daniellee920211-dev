@@ -83,6 +83,13 @@ If you’re looking for a reliable, business-focused developer who delivers more
          width="40"
          height="40"/>
   </a>
+  
+  <a href="https://www.facebook.com/people/Daniel-Lee/61586432825384" target="_blank">
+    <img src="https://commons.wikimedia.org/wiki/File:2023_Facebook_icon.svg"
+         alt="X"
+         width="40"
+         height="40"/>
+  </a>
 </p>
 
 
