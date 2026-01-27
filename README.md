@@ -31,11 +31,12 @@ I’m passionate about crafting **interactive and fantasy-style UI experiences**
 | Junior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Aug 2017 – Jan 2020 |
 | Intern | Lumenpulse Inc (Montreal, CA) | Sep 2016 –  Jul 2017 |
 
-## Eduaction
-| Education | Degree | Duuration | Location |
+## 🎓 Eduaction
+
+| 🎓 University | 𖡡 Location | 🏅Degree | ⏰Duration |
 |----|----|----|----|
-| The University of Montreal | Master of Computer Science | 09/2014 – 09/2016 | Montreal, QC, CA |
-| The University of Hong Kong | Bachelor of Computer Science |	09/2010 – 05/2014 | Hong Kong, China |
+| The University of Montreal | Montreal, QC, CA | Master of Computer Science | 09/2014 – 09/2016 |
+| The University of Hong Kong | Hong Kong, China | Bachelor of Computer Science |	09/2010 – 05/2014 |
 
 ### 🚀 What I Do
 
