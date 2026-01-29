@@ -27,6 +27,7 @@ I’m passionate about crafting **interactive and fantasy-style UI experiences**
 | 💼 Role | 🏢 Company | ⏰ Duration |
 |----|----|----|
 | Head of Application Development & Team Leader | Tinkr (HK) | Oct 2023 – Oct 2025 |
+|----|----|----|
 | Senior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Feb 2020 – Sep 2023 |
 | Junior Full-Stack Developer | Lumenpulse Inc (Montreal, CA) | Aug 2017 – Jan 2020 |
 | Intern | Lumenpulse Inc (Montreal, CA) | Sep 2016 –  Jul 2017 |
