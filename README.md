@@ -59,11 +59,6 @@ I’m passionate about crafting **interactive and fantasy-style UI experiences**
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=daniellee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee&layout=compact&theme=tokyonight)
-
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: coming soon
